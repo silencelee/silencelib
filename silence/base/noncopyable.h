@@ -14,6 +14,6 @@ protected:
 	~noncopyalbe() = default;
 };
 
-}
+} // namespace silence
 
 #endif
